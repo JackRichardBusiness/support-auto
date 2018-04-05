@@ -1,0 +1,3 @@
+ going to Settings > Application manager > Sabrina > Permissions and turning all permissions on?
+Uninstall and reinstall Sabrina Assistant, then make sure to press Allow on all the prompts shown when setting up.
+Sorry, I can't find a solution to this. Please call us at (508) 306-1254 to get help.

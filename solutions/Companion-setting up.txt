@@ -1,0 +1,3 @@
+ restarting the Companion device?
+If you are using the hotspot setup, make sure to check your WiFi settings and connect to Companion Setup network. Then open your web browser and type in 192.168.1.139/ (the slash is needed) and the setup page should open. If you're using the USB method, make sure there are no blank lines in your companion.txt file. 
+Ok, I recommend calling (508) 306-1254 about your problem. Thanks for chatting!
