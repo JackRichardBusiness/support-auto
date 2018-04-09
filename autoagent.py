@@ -134,8 +134,8 @@ try:
                 initialList = newList
             else:
                 current = new
-                welcomes = ["Hello! I am %s, here to help you with your Sabrina Technologies questions. What's the product you're having trouble today?", "Hi! My name is %s. What product are you having trouble with?", "Good day! I'm %s with Sabrina Technologies. What product are you having trouble with?"]
-                assistants = ["Fred", "Andrew", "Diane", "Wilma", "Bruce"]
+                welcomes = ["Hello! I am %s, here to help you with your Sabrina Technologies questions. What's the product you're having trouble today?", "Hi! My name is %s. What product are you having trouble with?", "Good day! I'm %s with Sabrina Technologies. What product are you having trouble with?", "Hey! I'm %s, here to help with your Sabrina Technologies questions. What product are you having trouble with?"]
+                assistants = ["Fred", "Andrew", "Irene", "Wilma", "Bruce"]
                 for person in inProgress:
                     print "Helping "+person+"..."
                     helper = assistants[randint(0, len(assistants)-1)]
